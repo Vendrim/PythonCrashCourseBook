@@ -1,6 +1,6 @@
 Person = {
     'first name': 'Victor',
-    'last name':'Bialek',
+    'last name': 'Bialek',
     'age': '23.6',
     'city': 'Augsburg',
 }

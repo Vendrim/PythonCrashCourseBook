@@ -6,9 +6,9 @@ for number in ordinals:
     elif(number == 2):
         print(" 2nd")
     
-    elif(number == 3):
+    elif(number == 3):                                                                                                                                                                                                                                                                                                                                          
         print(" 3rd")
     
     else:
         print(f' {number}th')
-    
+                                                                                                                                                                                                                                                                                                                                
